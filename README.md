@@ -1,15 +1,20 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
 # Hi, I'm Eman Nabil 👋
 
-💻 Web Developer  
-🌐 HTML | CSS | JavaScript | Python  
+🎓 Computer Science & IT Student  
+💻 Passionate about Web Development  
+🌱 Currently learning HTML, CSS, JavaScript & Python  
+🚀 I enjoy building websites and improving my programming skills  
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Computer Science Student  
-- 🌱 Currently learning Web Development  
-- 🐍 I also work with Python  
-- 🚀 Always improving my coding skills
+
+- 🎓 Studying Computer Science (IT Department)
+- 🌐 Interested in Web Development
+- 💡 I love learning new technologies
+- 🚀 My goal is to become a professional Web Developer
 
 ---
 
@@ -31,6 +36,8 @@
 
 ---
 
-### 🔗 Connect With Me
+### 📚 Currently Learning
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/emancode2244)
+- Web Development
+- JavaScript
+- Responsive Design
