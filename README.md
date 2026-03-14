@@ -1,62 +1,36 @@
-<h1 align="center">Hi 👋, I'm Eman Nabil</h1>
-<h3 align="center">Computer Science Student | Python Developer</h3>
+# Hi, I'm Eman Nabil 👋
+
+💻 Web Developer  
+🌐 HTML | CSS | JavaScript | Python  
 
 ---
 
-## 👩‍💻 About Me
-
+### 👩‍💻 About Me
 - 🎓 Computer Science Student  
-- 🐍 Python Developer  
-- 🤖 Working on Raspberry Pi & NFC Projects  
-- 💻 I build Web Projects using HTML & CSS  
-- 📚 Currently learning Advanced Python & Tkinter  
+- 🌱 Currently learning Web Development  
+- 🐍 I also work with Python  
+- 🚀 Always improving my coding skills
 
 ---
 
-## 🚀 Skills
+### 🛠 Tech Stack
 
-<p align="center">
+![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
 
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github" />
+![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
----
-
-## 🛠 Projects
-
-🔹 **Smart Access System using NFC & Raspberry Pi**  
-- Python  
-- NFC Card Reader  
-- Email Notifications  
-- Database Integration  
-- GUI Interface  
-
-🔹 **Product Management System**  
-- HTML  
-- CSS  
-- JavaScript  
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
-
-</p>
+![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=emancode2244&show_icons=true&theme=dark)
 
 ---
 
-## 📫 Connect with Me
+### 🔗 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/emancode2244)
