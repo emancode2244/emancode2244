@@ -54,6 +54,10 @@
 #### 3.Adidas landing page 
 ![adidas landing page]
 [View Project](https://emancode2244.github.io/Adidas-landing-page/)]
+
+#### 3.phone-store-landing-page
+![phone-store-landing-page]
+[View Project]"https://emancode2244.github.io/phone-store-landing-page/"]
 ### 📚 Currently Learning
 
 - Web Development
