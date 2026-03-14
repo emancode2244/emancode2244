@@ -40,16 +40,18 @@
 ### 🏆 My Projects
 
 #### 1. Portfolio Website
-![Portfolio](https://via.placeholder.com/300x150)
-[View Project](https://github.com/emancode2244/portfolio)
+![Portfolio]
+[View Project](https://emancode2244.github.io/my-project-portfolio./)
 
 #### 2. CRUD Product System
-![CRUD](https://via.placeholder.com/300x150)
-[View Project](https://github.com/emancode2244/crud-system)
+![CRUD]
+[View Project](https://emancode2244.github.io/Crud-system/)
 
 #### 3. Dashboard UI
-![Dashboard](https://via.placeholder.com/300x150)
-[View Project](https://github.com/emancode2244/dashboard)
+![Dashboard]
+[View Project](https://emancode2244.github.io/responsive-dashboard/)
+
+
 ### 📚 Currently Learning
 
 - Web Development
