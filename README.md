@@ -37,7 +37,19 @@
 ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=emancode2244&show_icons=true&theme=dark)
 
 ---
+### 🏆 My Projects
 
+#### 1. Portfolio Website
+![Portfolio](https://via.placeholder.com/300x150)
+[View Project](https://github.com/emancode2244/portfolio)
+
+#### 2. CRUD Product System
+![CRUD](https://via.placeholder.com/300x150)
+[View Project](https://github.com/emancode2244/crud-system)
+
+#### 3. Dashboard UI
+![Dashboard](https://via.placeholder.com/300x150)
+[View Project](https://github.com/emancode2244/dashboard)
 ### 📚 Currently Learning
 
 - Web Development
