@@ -37,27 +37,7 @@
 ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=emancode2244&show_icons=true&theme=dark)
 
 ---
-### 🏆 My Projects
 
-#### 1. Portfolio Website
-![Portfolio]
-[View Project](https://emancode2244.github.io/my-project-portfolio./)
-
-#### 2. CRUD Product System
-![CRUD]
-[View Project](https://emancode2244.github.io/Crud-system/)
-
-#### 3. Dashboard UI
-![Dashboard]
-[View Project](https://emancode2244.github.io/responsive-dashboard/)]
-
-#### 3.Adidas landing page 
-![adidas landing page]
-[View Project](https://emancode2244.github.io/Adidas-landing-page/)]
-
-#### 3.phone-store-landing-page
-![phone-store-landing-page]
-[View Project]"https://emancode2244.github.io/phone-store-landing-page/"]
 ### 📚 Currently Learning
 
 - Web Development
