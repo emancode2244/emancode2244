@@ -7,7 +7,7 @@
 🎓 Computer Science & IT Student  
 💻 Passionate about Web Development  
 🌱 Currently learning HTML, CSS, JavaScript & Python  
-🚀 I enjoy building websites and improving my programming skills  
+🚀 I enjoy building websites and improving my programming skills 
 
 ---
 
