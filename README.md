@@ -20,6 +20,20 @@
 
 ---
 
+## 💻 Skills
+- HTML
+- CSS
+- JavaScript
+
+- --
+## 🌐 Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/eman-nabil-5bbb313a0/?skipRedirect=true" target="blank">LinkedIn</a> |
+<a href="https://github.com/emancode2244" target="blank">GitHub</a> |
+<a href="mailto:an6217033@gmail.com">Email</a>
+</p>
+
 ### 🛠 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
