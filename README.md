@@ -29,9 +29,17 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/eman-nabil-5bbb313a0/?skipRedirect=true" target="blank">LinkedIn</a> |
-<a href="https://github.com/emancode2244" target="blank">GitHub</a> |
-<a href="mailto:an6217033@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/eman-nabil-5bbb313a0/?skipRedirect=true" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
+</a>
+
+<a href="https://github.com/emancode2244" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" height="30"/>
+</a>
+
+<a href="mailto:an6217033@email.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="30" height="30"/>
+</a>
 </p>
 
 ### 🛠 Tech Stack
