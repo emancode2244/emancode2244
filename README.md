@@ -52,13 +52,6 @@
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emancode2244&layout=compact&theme=dark" alt="Eman's Top Languages" width="500"/>
-</p>
 
 ---
 
