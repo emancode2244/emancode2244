@@ -56,7 +56,9 @@
 
 ### 📊 GitHub Stats
 
-![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=emancode2244)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=emancode2244&show_icons=true&theme=dark&hide_border=true" alt="Eman's GitHub stats" width="500"/>
+</p>
 
 ---
 
