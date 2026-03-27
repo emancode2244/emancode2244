@@ -56,9 +56,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=emancode2244&show_icons=true&theme=dark&hide_border=true" alt="Eman's GitHub stats" width="500"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emancode2244&layout=compact&theme=dark)
 
 ---
 
