@@ -56,7 +56,7 @@
 
 ### 📊 GitHub Stats
 
-![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=emancode2244&show_icons=true&theme=dark)
+![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=emancode2244)
 
 ---
 
