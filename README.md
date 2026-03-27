@@ -37,7 +37,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" height="30"/>
 </a>
 
-<a href="mailto:an6217033@gmail.com">
+<a href="mailto:emancodes011@gmail.com">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="30" height="30"/>
 </a>
 </p>
