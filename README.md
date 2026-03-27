@@ -56,7 +56,9 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emancode2244&layout=compact&theme=dark)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emancode2244&layout=compact&theme=dark" alt="Eman's Top Languages" width="500"/>
+</p>
 
 ---
 
