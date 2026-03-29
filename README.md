@@ -29,39 +29,34 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/eman-nabil-5bbb313a0/?skipRedirect=true" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
-</a>
-
-<a href="https://github.com/emancode2244" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" height="30"/>
-</a>
-
-<a href="mailto:emancodes011@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="30" height="30"/>
-</a>
-
-<a href="https://x.com/EmanNabil321699">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="twitter" width="30" height="30"/>
-</a>
-
- <a href="https://instagram.com/yourusername">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" width="30" height="30"/>
+  <a href="https://www.linkedin.com/in/eman-nabil-5bbb313a0/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+  </a>
+  <a href="https://github.com/emancode2244" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+  </a>
+  <a href="mailto:emancodes011@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>
+  </a>
+  <a href="https://x.com/EmanNabil321699" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="30"/>
+  </a>
+  <a href="https://www.instagram.com/emancodes011/?__pwa=1" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30"/>
   </a>
 </p>
 
+
 ### 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-
-![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ---
+
 
 ### 📚 Currently Learning
 
