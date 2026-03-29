@@ -60,7 +60,10 @@
 
 ### 📚 Currently Learning
 
-- Web Development
+-HTML
+-CSS
 - JavaScript
+- python
 - java
+- php
 - Responsive Design
