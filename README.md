@@ -24,6 +24,8 @@
 - HTML
 - CSS
 - JavaScript
+- Responsive Design
+- Python
 
 - --
 ## 🌐 Connect with me:
@@ -60,10 +62,7 @@
 
 ### 📚 Currently Learning
 
--HTML
--CSS
-- JavaScript
-- python
+-web development
 - java
 - php
 - Responsive Design
