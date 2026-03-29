@@ -40,6 +40,14 @@
 <a href="mailto:emancodes011@gmail.com">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="30" height="30"/>
 </a>
+
+<a href="https://x.com/EmanNabil321699">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="twitter" width="30" height="30"/>
+</a>
+
+<a href="https://www.instagram.com/emancodes011/?__pwa=1">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="instagram" width="30" height="30"/>
+</a>
 </p>
 
 ### 🛠 Tech Stack
