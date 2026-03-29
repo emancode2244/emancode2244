@@ -62,7 +62,7 @@
 
 ### 📚 Currently Learning
 
--web development
+- web development
 - java
 - php
 - Responsive Design
